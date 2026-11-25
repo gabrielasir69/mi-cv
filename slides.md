@@ -27,11 +27,18 @@ Nota: En el ciclo las asignaturas que más me gustan son fundamentos del hardwar
 
 ---
 
+## Proyectos
+
+* **Erasmus** a *Nueva Caledonia*
+
+---
+
+
 ## Competencias técnicas
 
 * **Sistemas Operativos:** instalación y configuración de Linux y Windows, gestión de usuarios y permisos.
 * **Redes y Servicios:** Lo justito
-* **Herramientas:** Terminal bash, SQL, Python, CSS, JS, Lua
+* **Herramientas:** Terminal bash, Python, CSS, JS, Lua
 * **Documentación:** Markdown y HTML
 
 
