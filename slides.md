@@ -1,7 +1,7 @@
 # Hola, soy Gabriel
 ### Estudiante de ASIR
 
-CV versionado y publicado desde mi repositorio en Codeberg
+CV hecho en GitHub
 
 Nota: Presentación breve: nombre, módulo 
 
@@ -11,7 +11,7 @@ Nota: Presentación breve: nombre, módulo
 
 - Vivo en **Paiporta** y estudio 1º ASIR
 - Me atraen los sistemas y la automatización
-- Perfil: **curiosidad + constancia + trabajo en equipo**
+- Perfil: **curiosidad, constancia, trabajo en equipo**
 Nota: Estudio ASIR para poder conocer como funcionan a bajo nivel los equipos informáticos para poder arreglarlos o diseñarlos
 
 ---
@@ -31,7 +31,7 @@ Nota: En el ciclo las asignaturas que más me gustan son fundamentos del hardwar
 
 * **Sistemas Operativos:** instalación y configuración de Linux y Windows, gestión de usuarios y permisos.
 * **Redes y Servicios:** Lo justito
-* **Herramientas:** Terminal bash, SQL
+* **Herramientas:** Terminal bash, SQL, Python, CSS, JS, Lua
 * **Documentación:** Markdown y HTML
 
 
@@ -39,17 +39,11 @@ Nota: Ser honesto con el nivel actual
 
 ---
 
-## Proyectos y aprendizaje práctico
-
-* **Este repositorio:** CV y presentación coon Markdown utilizando `reveal.js`.
-
----
-
 ## Idiomas y habilidades transversales
 
 * **Español:** competencia nativa / bilingüe.
 * **Valenciano:** C1
-* **Inglés:** nivel B2-C1 — Sin título pero con competencia suficiente
+* **Inglés:** nivel B2-C1 — Sin título pero con competencia plena oral y escrita
 * **Francés:** nivel B2 a la espera de C1
 * **Soft skills:** comunicativo en equipo y resolutivo
 
@@ -57,7 +51,7 @@ Nota: Ser honesto con el nivel actual
 
 ## Contacto y enlaces
 
-* **Repositorio:** `https://codeberg.org/gabrielasir/mi-cv`
-* **Web del CV:** `https://gabrielasir.codeberg.page/mi-cv`
+* **Repositorio:** `https://github.com/gabrielasir69/mi-cv`
+* **Web del CV:** `https://gabrielasir69.github.io/mi-cv`
 
-*Gracias por vuestra atención*
+*Gracias por la atención*
